@@ -1,1 +1,1 @@
-# Classification Of NER for general usage
+# Classification Of NER for general usage only
